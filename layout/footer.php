@@ -8,6 +8,12 @@
   </div>
   <!-- Copyright -->
 
+  <?php
+
+  echo "\n LAST modified: " . date("l d F Y H:ia.", getlastmod());
+
+  ?>
+
 </footer></div>
 </div>
 
