@@ -81,7 +81,10 @@
             <a class="nav-link text-white" href="ex1.php">Excercise 1</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="ex3.php">Excercise 3</a>
+            <a class="nav-link" href="variable.php">Excercise 3</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="controlflow.php">Excercise 4</a>
           </li>
         </ul>
       </div>
