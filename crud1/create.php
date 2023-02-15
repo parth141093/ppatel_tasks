@@ -13,6 +13,7 @@ include "../layout/header.php";
         <option value="Others"> Others </option>
     </select><br><br>
     <input type="submit" value="Submit" name="submit">
+</form>
 <?php
 include "../layout/footer.php";
 ?>
